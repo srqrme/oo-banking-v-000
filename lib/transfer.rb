@@ -4,7 +4,6 @@ class Transfer
   attr_accessor :status
   
   def initialize
-    @transfer = self
     @sender = sender
     @receiver = receiver
     @status = "pending"
