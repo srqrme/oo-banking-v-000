@@ -3,6 +3,6 @@ class Transfer
   def initialize
     @transer = self
     @sender = sender
-    
+    @receiver = receiver
   end
 end
