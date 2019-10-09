@@ -1,7 +1,7 @@
 class Transfer
   # your code here
   def initialize
-    @transer = self
+    @transfer = self
     @sender = sender
     @receiver = receiver
     @status = "pending"
